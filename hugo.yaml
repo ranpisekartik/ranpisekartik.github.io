@@ -1,0 +1,45 @@
+baseURL: "https://github.com/ranpisekartik/"
+languageCode: "en-us"
+title: "Kartik Ranpise | Software Engineer & Architect"
+theme: "PaperMod"
+
+params:
+  env: production
+  title: "Kartik Ranpise"
+  description: "Personal branding portfolio and blog."
+  author: "Kartik Ranpise"
+  
+  # Home page setup for profile branding
+  profileMode:
+    enabled: true
+    title: "Hello visitor, I'm Your guide Kartik Ranpise 👋"
+    subtitle: "Lead Software Engineer specializing in distributed systems and backend architecture."
+    imageUrl: "images/profile_pic.jpg"
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: "Projects"
+        url: "projects"
+      - name: "Resume"
+        url: "resume"
+
+  # Social Icons displayed on the home page
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/ranpisekartik/"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/kartik-ranpise-a8650276/"
+    - name: "email"
+      url: "mailto:ranpisekartik14@gmail.com"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 10
+    - name: "Projects"
+      url: "/projects/"
+      weight: 20
+    - name: "Blog"
+      url: "/posts/"
+      weight: 30

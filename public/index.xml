@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kartik Ranpise | Software Engineer &amp; Architect</title>
+    <link>http://localhost:1313/ranpisekartik/</link>
+    <description>Recent content on Kartik Ranpise | Software Engineer &amp; Architect</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2026 09:04:05 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/ranpisekartik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/ranpisekartik/about/</link>
+      <pubDate>Thu, 24 Sep 2026 09:04:05 +0530</pubDate>
+      <guid>http://localhost:1313/ranpisekartik/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Kartik Ranpise&lt;/strong&gt; 👋&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a &lt;strong&gt;Senior Software Engineer and Backend Engineer&lt;/strong&gt; with &lt;strong&gt;9+ years of experience&lt;/strong&gt; building scalable, secure, and reliable backend systems, primarily in the &lt;strong&gt;fintech and payments domain&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I currently work at &lt;strong&gt;Mastercard&lt;/strong&gt;, where I work on &lt;strong&gt;card and cross-border payment solutions&lt;/strong&gt; and lead a team of engineers. My work spans the complete software development lifecycle — from requirement analysis and architecture/design to development, code reviews, production deployments, and operational support.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
