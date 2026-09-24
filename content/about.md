@@ -1,13 +1,13 @@
 ---
 date: '2026-09-24T09:04:05+05:30'
-draft: true
+draft: false
 title: 'About'
 ---
 # About Me
 
 Hi, I'm **Kartik Ranpise** 👋
 
-I'm a **Senior Software Engineer and Backend Engineer** with **9+ years of experience** building scalable, secure, and reliable backend systems, primarily in the **fintech and payments domain**.
+I'm a **Senior Software Engineer and Backend Engineer** with **10+ years of experience** building scalable, secure, and reliable backend systems, primarily in the **fintech and payments domain**.
 
 I currently work at **Mastercard**, where I work on **card and cross-border payment solutions** and lead a team of engineers. My work spans the complete software development lifecycle — from requirement analysis and architecture/design to development, code reviews, production deployments, and operational support.
 
